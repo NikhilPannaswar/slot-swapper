@@ -1,0 +1,17 @@
+# Node
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Build
+dist
+build
+.vite
+coverage
+
+# Env
+.env
+.env.local
+
+# System
+.DS_Store
